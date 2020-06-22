@@ -11,7 +11,7 @@ SÁCH HAY là một dự án chia sẻ ứng dụng sách/ truyện/ tuyển t�
 
 
 #### Sách  
-```markdown
+
 # Top 5 sách hay của Malcm Gladwell - Người truyền cảm hứng
 **Chú Chó Nhìn Thấy Gì, David Goliath, Điểm Bùng Phát, 
 Những Kẻ Xuất Chúng, Trong Chớp Mắt**
@@ -29,7 +29,7 @@ Những Kẻ Xuất Chúng, Trong Chớp Mắt**
 # Truyện "THUỶ HỬ"
 **Tác giả: Ni Thoại Âm**
 
-```
+
 
 #### TRUYỆN NGÔN TÌNH
 ```markdown
