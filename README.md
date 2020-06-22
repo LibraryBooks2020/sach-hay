@@ -20,13 +20,13 @@ Những Kẻ Xuất Chúng, Trong Chớp Mắt**
 
 # Sách Giải Nghĩa 64 Quẻ Kinh Dịch - tác giả Nguyễn Hiến Lê
 
-### Truyện "Tam Quốc Diễn Nghĩa"
+# Truyện "Tam Quốc Diễn Nghĩa"
 **Tác giả: La Quán Trung**
 
-### Truyện "Đông Chu Liệt Quốc"
+# Truyện "Đông Chu Liệt Quốc"
 **Tác giả: Phùng Mộng Long**
 
-### Truyện "THUỶ HỬ"
+# Truyện "THUỶ HỬ"
 **Tác giả: Ni Thoại Âm**
 
 ```
@@ -51,9 +51,9 @@ Những Kẻ Xuất Chúng, Trong Chớp Mắt**
 **Tác giả:Du Nhân**
 **Thể loại:Ngôn Tình, Sủng**
 
-### Tuyển Tập Truyện Trinh Thám tác giả Đinh Mặc hay nhất
+# Tuyển Tập Truyện Trinh Thám tác giả Đinh Mặc hay nhất
 
-### Tuyển Tập Truyện Ngôn Tình hay không thể bỏ qua
+# Tuyển Tập Truyện Ngôn Tình hay không thể bỏ qua
 **Tác giả: Cổ Mạn, Cố Tây Tước, Cửu Nguyệt Hy, Bản Lật Tử**
 
 ```
@@ -61,16 +61,16 @@ Những Kẻ Xuất Chúng, Trong Chớp Mắt**
 
 #### TRUYỆN THIẾU NHI
 ```markdown
-### Tập Truyện Cổ tích, Thần Thoại Hy Lạp
+# Tập Truyện Cổ tích, Thần Thoại Hy Lạp
 [Link](url) and ![Image](src)
 
-### Tập Truyện của Nguyễn Nhật Ánh - Kính Vạn Hoa toàn tập
+# Tập Truyện của Nguyễn Nhật Ánh - Kính Vạn Hoa toàn tập
 [Link](url) and ![Image](src)
 
-### Tập Truyện "Các Anh Hùng Trên Đỉnh Olympus" - tác giả Rich Riordan
+# Tập Truyện "Các Anh Hùng Trên Đỉnh Olympus" - tác giả Rich Riordan
 [Link](url) and ![Image](src)
 
-### Tập Truyện "Hậu Duệ Thần Đèn" - tác giả Philip Ballantyne Kerr
+# Tập Truyện "Hậu Duệ Thần Đèn" - tác giả Philip Ballantyne Kerr
 [Link](url) and ![Image](src)
 
 ```
