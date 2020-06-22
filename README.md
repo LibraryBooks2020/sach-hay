@@ -1,8 +1,8 @@
-#### Welcome to SÁCH HAY
+### Welcome to SÁCH HAY
 
 SÁCH HAY là một dự án chia sẻ ứng dụng sách/ truyện/ tuyển tập tiếng Việt miễn phí cho điện thoại, máy đọc sách. SÁCH HAY hi vọng sẽ là nơi mang lại những kiến thức hữu ích cho mọi người thông qua những đầu sách được phân loại từng ứng dụng.
 
-#### Ứng dụng gọn nhẹ, đơn giản, dễ sử dụng, nhiều tùy chọn chế độ đọc, phù hợp với nhiều đời máy từ thấp đến cao.
+### Ứng dụng gọn nhẹ, đơn giản, dễ sử dụng, nhiều tùy chọn chế độ đọc, phù hợp với nhiều đời máy từ thấp đến cao.
 - Đơn giản, đẹp mắt, dễ sử dụng
 - Thay đổi font chữ, màu nền
 - Tự động lưu chương đang đọc
@@ -18,15 +18,15 @@ Những Kẻ Xuất Chúng, Trong Chớp Mắt
 
 ### 2. KINH DỊCH ỨNG DỤNG TRONG KINH DOANH - tác giả Thiệu Vũ
 
-#### 3. Sách Giải Nghĩa 64 Quẻ Kinh Dịch - tác giả Nguyễn Hiến Lê
+### 3. Sách Giải Nghĩa 64 Quẻ Kinh Dịch - tác giả Nguyễn Hiến Lê
 
-#### 4. Truyện "Tam Quốc Diễn Nghĩa"
+### 4. Truyện "Tam Quốc Diễn Nghĩa"
 Tác giả: La Quán Trung
 
-#### 5. Truyện "Đông Chu Liệt Quốc"
+### 5. Truyện "Đông Chu Liệt Quốc"
 Tác giả: Phùng Mộng Long
 
-#### 6. Truyện "THUỶ HỬ"
+### 6. Truyện "THUỶ HỬ"
 Tác giả: Ni Thoại Âm
 
 
@@ -35,27 +35,27 @@ Tác giả: Ni Thoại Âm
 TRUYỆN NGÔN TÌNH
 ```
 
-#### 1. Truyện Ngôn tình "Chọc Tức Vợ Yêu, Mua 1 Tặng 1" 
+### 1. Truyện Ngôn tình "Chọc Tức Vợ Yêu, Mua 1 Tặng 1" 
 Tên khác: Cho em muôn trượng hào quang, Quân tử báo ân
 Tác giả:Quẫn Quẫn Hữu Yêu
 Thể loại:Ngôn Tình, Hài Hước, Sủng
 
-#### 2. Truyện Ngôn tình "BOSS HUNG DỮ - ÔNG XÃ KẾT HÔN ĐI" 
+### 2. Truyện Ngôn tình "BOSS HUNG DỮ - ÔNG XÃ KẾT HÔN ĐI" 
 Tác giả: Thập Nguyệt Sơ
 Thể loại: Ngôn Tình
 
 
-#### 3. Truyện Ngôn tình "Boss Là Nữ Phụ" 
+### 3. Truyện Ngôn tình "Boss Là Nữ Phụ" 
 Tác giả:Mặc Linh
 Thể loại:Ngôn Tình, Dị Giới, Huyền Huyễn, Xuyên Không
 
-#### 4. Truyện Ngôn tình "NÀNG DÂU CỰC PHẨM"
+### 4. Truyện Ngôn tình "NÀNG DÂU CỰC PHẨM"
 Tác giả:Du Nhân
 Thể loại:Ngôn Tình, Sủng
 
-#### 5. Tuyển Tập Truyện Trinh Thám tác giả Đinh Mặc hay nhất
+### 5. Tuyển Tập Truyện Trinh Thám tác giả Đinh Mặc hay nhất
 
-#### 6. Tuyển Tập Truyện Ngôn Tình hay không thể bỏ qua
+### 6. Tuyển Tập Truyện Ngôn Tình hay không thể bỏ qua
 Tác giả: Cổ Mạn, Cố Tây Tước, Cửu Nguyệt Hy, Bản Lật Tử
 
 
@@ -63,20 +63,18 @@ Tác giả: Cổ Mạn, Cố Tây Tước, Cửu Nguyệt Hy, Bản Lật Tử
 ```markdown
 TRUYỆN THIẾU NHI
 ```
-#### 1. Tập Truyện Cổ tích, Thần Thoại Hy Lạp
+### 1. Tập Truyện Cổ tích, Thần Thoại Hy Lạp
 [Link](url) and ![Image](src)
 
-#### 2. Tập Truyện của Nguyễn Nhật Ánh - Kính Vạn Hoa toàn tập
+### 2. Tập Truyện của Nguyễn Nhật Ánh - Kính Vạn Hoa toàn tập
 [Link](url) and ![Image](src)
 
-#### 3. Tập Truyện "Các Anh Hùng Trên Đỉnh Olympus" - tác giả Rich Riordan
+### 3. Tập Truyện "Các Anh Hùng Trên Đỉnh Olympus" - tác giả Rich Riordan
 [Link](url) and ![Image](src)
 
-#### 4. Tập Truyện "Hậu Duệ Thần Đèn" - tác giả Philip Ballantyne Kerr
+### 4. Tập Truyện "Hậu Duệ Thần Đèn" - tác giả Philip Ballantyne Kerr
 [Link](url) and ![Image](src)
 
 
 
 @@Xin trân trọng giới thiệu cùng bạn đọc.@@
-
-
