@@ -56,8 +56,6 @@ Những Kẻ Xuất Chúng, Trong Chớp Mắt**
 **Tác giả: Cổ Mạn, Cố Tây Tước, Cửu Nguyệt Hy, Bản Lật Tử**
 
 
-
-
 #### TRUYỆN THIẾU NHI
 
 ### Tập Truyện Cổ tích, Thần Thoại Hy Lạp
@@ -71,7 +69,6 @@ Những Kẻ Xuất Chúng, Trong Chớp Mắt**
 
 ### Tập Truyện "Hậu Duệ Thần Đèn" - tác giả Philip Ballantyne Kerr
 [Link](url) and ![Image](src)
-
 
 
 **Xin trân trọng giới thiệu cùng bạn đọc.**
