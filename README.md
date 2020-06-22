@@ -10,11 +10,9 @@ SÁCH HAY là một dự án chia sẻ ứng dụng sách/ truyện/ tuyển t�
 - Đọc offline, không cần kết nối mạng
 
 ```markdown
-SÁCH TÂM LÝ, GỐI ĐẦU GIƯỜNG
+**SÁCH TÂM LÝ, GỐI ĐẦU GIƯỜNG**
 ```
-```diff
-1. Top 5 sách hay của Malcm Gladwell - Người truyền cảm hứng
-```
+## 1. Top 5 sách hay của Malcm Gladwell - Người truyền cảm hứng
 Chú Chó Nhìn Thấy Gì, David Goliath, Điểm Bùng Phát, 
 Những Kẻ Xuất Chúng, Trong Chớp Mắt
 
@@ -34,7 +32,7 @@ Tác giả: Ni Thoại Âm
 ```
 
 ```markdown
-TRUYỆN NGÔN TÌNH
+**TRUYỆN NGÔN TÌNH**
 ```
 
 #### 1. Truyện Ngôn tình "Chọc Tức Vợ Yêu, Mua 1 Tặng 1" 
@@ -63,7 +61,7 @@ Tác giả: Cổ Mạn, Cố Tây Tước, Cửu Nguyệt Hy, Bản Lật Tử
 
 
 ```markdown
-TRUYỆN THIẾU NHI
+**TRUYỆN THIẾU NHI**
 ```
 #### 1. Tập Truyện Cổ tích, Thần Thoại Hy Lạp
 [Link](url) and ![Image](src)
