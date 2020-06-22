@@ -13,7 +13,7 @@ SÁCH HAY là một dự án chia sẻ ứng dụng sách/ truyện/ tuyển t�
 SÁCH TÂM LÝ, GỐI ĐẦU GIƯỜNG
 ```
 ```diff
-+ 1. Top 5 sách hay của Malcm Gladwell - Người truyền cảm hứng
+1. Top 5 sách hay của Malcm Gladwell - Người truyền cảm hứng
 ```
 Chú Chó Nhìn Thấy Gì, David Goliath, Điểm Bùng Phát, 
 Những Kẻ Xuất Chúng, Trong Chớp Mắt
