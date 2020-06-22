@@ -12,7 +12,7 @@ SÁCH HAY là một dự án chia sẻ ứng dụng sách/ truyện/ tuyển t�
 ```markdown
 SÁCH TÂM LÝ, GỐI ĐẦU GIƯỜNG
 ```
-#### 1. Top 5 sách hay của Malcm Gladwell - Người truyền cảm hứng
+![#f03c15]#### 1. Top 5 sách hay của Malcm Gladwell - Người truyền cảm hứng`#f03c15`
 Chú Chó Nhìn Thấy Gì, David Goliath, Điểm Bùng Phát, 
 Những Kẻ Xuất Chúng, Trong Chớp Mắt
 
@@ -35,27 +35,27 @@ Tác giả: Ni Thoại Âm
 TRUYỆN NGÔN TÌNH
 ```
 
-#### Truyện Ngôn tình "Chọc Tức Vợ Yêu, Mua 1 Tặng 1" 
+#### 1. Truyện Ngôn tình "Chọc Tức Vợ Yêu, Mua 1 Tặng 1" 
 Tên khác: Cho em muôn trượng hào quang, Quân tử báo ân
 Tác giả:Quẫn Quẫn Hữu Yêu
 Thể loại:Ngôn Tình, Hài Hước, Sủng
 
-#### Truyện Ngôn tình "BOSS HUNG DỮ - ÔNG XÃ KẾT HÔN ĐI" 
+#### 2. Truyện Ngôn tình "BOSS HUNG DỮ - ÔNG XÃ KẾT HÔN ĐI" 
 Tác giả: Thập Nguyệt Sơ
 Thể loại: Ngôn Tình
 
 
-#### Truyện Ngôn tình "Boss Là Nữ Phụ" 
+#### 3. Truyện Ngôn tình "Boss Là Nữ Phụ" 
 Tác giả:Mặc Linh
 Thể loại:Ngôn Tình, Dị Giới, Huyền Huyễn, Xuyên Không
 
-#### Truyện Ngôn tình "NÀNG DÂU CỰC PHẨM"
+#### 4. Truyện Ngôn tình "NÀNG DÂU CỰC PHẨM"
 Tác giả:Du Nhân
 Thể loại:Ngôn Tình, Sủng
 
-#### Tuyển Tập Truyện Trinh Thám tác giả Đinh Mặc hay nhất
+#### 5. Tuyển Tập Truyện Trinh Thám tác giả Đinh Mặc hay nhất
 
-#### Tuyển Tập Truyện Ngôn Tình hay không thể bỏ qua
+#### 6. Tuyển Tập Truyện Ngôn Tình hay không thể bỏ qua
 Tác giả: Cổ Mạn, Cố Tây Tước, Cửu Nguyệt Hy, Bản Lật Tử
 
 
@@ -63,20 +63,20 @@ Tác giả: Cổ Mạn, Cố Tây Tước, Cửu Nguyệt Hy, Bản Lật Tử
 ```markdown
 TRUYỆN THIẾU NHI
 ```
-#### Tập Truyện Cổ tích, Thần Thoại Hy Lạp
+#### 1. Tập Truyện Cổ tích, Thần Thoại Hy Lạp
 [Link](url) and ![Image](src)
 
-#### Tập Truyện của Nguyễn Nhật Ánh - Kính Vạn Hoa toàn tập
+#### 2. Tập Truyện của Nguyễn Nhật Ánh - Kính Vạn Hoa toàn tập
 [Link](url) and ![Image](src)
 
-#### Tập Truyện "Các Anh Hùng Trên Đỉnh Olympus" - tác giả Rich Riordan
+#### 3. Tập Truyện "Các Anh Hùng Trên Đỉnh Olympus" - tác giả Rich Riordan
 [Link](url) and ![Image](src)
 
-#### Tập Truyện "Hậu Duệ Thần Đèn" - tác giả Philip Ballantyne Kerr
+#### 4. Tập Truyện "Hậu Duệ Thần Đèn" - tác giả Philip Ballantyne Kerr
 [Link](url) and ![Image](src)
 
 
 
-Xin trân trọng giới thiệu cùng bạn đọc.
+@@Xin trân trọng giới thiệu cùng bạn đọc.@@
 
 
