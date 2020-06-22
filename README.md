@@ -19,18 +19,8 @@ SÁCH HAY là một dự án chia sẻ ứng dụng sách/ truyện/ tuyển t�
 ```
 
 
-# Truyện Thiếu Nhi
 ```markdown
-### Tập Truyện Cổ tích, Thần Thoại Hy Lạp
-
-### Tập Truyện của Nguyễn Nhật Ánh - Kính Vạn Hoa toàn tập
-
-### Tập Truyện "Các Anh Hùng Trên Đỉnh Olympus" - tác giả Rich Riordan
-
-### Tập Truyện "Hậu Duệ Thần Đèn" - tác giả Philip Ballantyne Kerr
-
 ```
-
 ```markdown
 # Truyện Ngôn tình "Chọc Tức Vợ Yêu, Mua 1 Tặng 1" 
 **Tên khác: Cho em muôn trượng hào quang, Quân tử báo ân**
@@ -46,10 +36,6 @@ SÁCH HAY là một dự án chia sẻ ứng dụng sách/ truyện/ tuyển t�
 **Tác giả:Mặc Linh**
 **Thể loại:Ngôn Tình, Dị Giới, Huyền Huyễn, Xuyên Không**
 
-# Sách Giải Nghĩa 64 Quẻ Kinh Dịch
-**Tác giả: Nguyễn Hiến Lê **
-**Thể loại: kinh dịch**
-
 # Truyện Ngôn tình "NÀNG DÂU CỰC PHẨM"
 **Tác giả:Du Nhân**
 **Thể loại:Ngôn Tình, Sủng**
@@ -62,10 +48,25 @@ SÁCH HAY là một dự án chia sẻ ứng dụng sách/ truyện/ tuyển t�
 ### Truyện"Đông Chu Liệt Quốc"
 **Tác giả: Phùng Mộng Long**
 
-**Bold** and _Italic_ and `Code` text
+
+```
+
+```markdown
+# Truyện Thiếu Nhi
+```
+```markdown
+### Tập Truyện Cổ tích, Thần Thoại Hy Lạp
 [Link](url) and ![Image](src)
 
+### Tập Truyện của Nguyễn Nhật Ánh - Kính Vạn Hoa toàn tập
 [Link](url) and ![Image](src)
+
+### Tập Truyện "Các Anh Hùng Trên Đỉnh Olympus" - tác giả Rich Riordan
+[Link](url) and ![Image](src)
+
+### Tập Truyện "Hậu Duệ Thần Đèn" - tác giả Philip Ballantyne Kerr
+[Link](url) and ![Image](src)
+
 ```
 
 **Xin trân trọng giới thiệu cùng bạn đọc.**
