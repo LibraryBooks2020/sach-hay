@@ -16,6 +16,8 @@ SÁCH TƯ DUY - KỸ NĂNG - TÂM LÝ - THÀNH CÔNG TRONG CUỘC SỐNG
 Tác Phẩm:
 - Tư Duy Nhanh Và Chậm, Phải Trái Đúng Sai, Tâm Lý Học Hài Hước, Khám Phá Ngôn Ngữ Tư Duy, Phi Lý Trí, Lẽ Phải Của Phi Lý Trí, Trong Chớp Mắt, Đi Tìm Lẽ Sống, Sức Mạnh Của Thói Quen, Điểm Bùng Phát, Làm chủ tư duy thay đổi định mệnh, Tâm Lý Học Đám Đông, Những Đòn Tâm Lý Trong Thuyết Phục
 
+![Image](https://github.com/LibraryBooks2020/sach-hay/blob/master/ic_launcher/ic_launcher_1.png) [Apk install](https://drive.google.com/file/d/1yAs_u2qNKJkH9lEdUlONmrQzXowqpua1/view?usp=sharing)
+
 ### 1. Top 25 cuocuốn sách Tư Duy - Kỹ Năng hay nhất mọi thời đại - ts Nguyễn Thẩm Dương
 Tác Phẩm:
 - 7 chiến lược thịnh vượng và hạnh phúc, Bắt sóng cảm xúc – Bí mật lực hấp dẫn, Bí mật tư duy triệu phú, Chiến thắng con quỷ trong bạn, Đừng bao giờ đi ăn một mình, Quản lý thời gian, Quẳng gánh lo đi mà vui sống, Tôi tư duy tôi thành đạt, Trí tuệ do thái, Tuổi trẻ đáng giá bao nhiêu 
@@ -169,7 +171,7 @@ TRUYỆN THIẾU NHI
 [Link](url) and ![Image](src)
 
 
-[Link](shorturl.at/mAJ67) and ![Image](https://github.com/LibraryBooks2020/sach-hay/blob/master/ic_launcher/ic_launcher_1.png)
+
 
 @@Xin trân trọng giới thiệu cùng bạn đọc.@@
 
