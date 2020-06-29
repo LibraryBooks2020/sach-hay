@@ -73,6 +73,7 @@ Tác phẩm:
 ### [6]. Top 5 sách hay của Malcm Gladwell - Người truyền cảm hứng
 Tác phẩm: 
 - Chú Chó Nhìn Thấy Gì, David Goliath, Điểm Bùng Phát, Những Kẻ Xuất Chúng, Trong Chớp Mắt
+
 ![Image](https://raw.githubusercontent.com/LibraryBooks2020/sach-hay/master/ic_launcher/ic_launcher_6.png)  [**APK** Download link ](https://drive.google.com/file/d/1eKP34WKk3mSnH-doTJlLVBMJMjVxZUlS/view?usp=sharing)
 
 ### [7]. Tứ Thư Lãnh Đạo
